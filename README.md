@@ -1,2 +1,2 @@
 # 下载程序包
- 1. go包管理器dep
+ 1. Flink Operator 依赖包下载
